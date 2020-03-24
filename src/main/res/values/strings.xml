@@ -1,0 +1,322 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name">Wanderers</string>
+
+    <string name="sampleText">Sample Text</string>
+    <string name="sampleParagraph">
+        Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+        \n\n
+        Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+        \n\n
+        Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+        \n\n
+        Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+        \n\n
+        Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+        \n\n
+    </string>
+
+
+    <string name="bangladesh">Bangladesh</string>
+    <string name="bhutan">Bhutan</string>
+    <string name="india">India</string>
+    <string name="nepal">Nepal</string>
+
+    <string name="more_about">More About The Place</string>
+    <string name="tour_details">Tour Details</string>
+    <string name="tour_expenditure">Tour Expenditure</string>
+
+    <string-array name="pop_up_titles">
+        <item>More About The Place</item>
+        <item>Tour Details</item>
+        <item>Tour Expenditure</item>
+    </string-array>
+
+
+    <string-array name="country_names">
+        <item>Bangladesh</item>
+        <item>Bhutan</item>
+        <item>India</item>
+        <item>Nepal</item>
+    </string-array>
+
+    <string-array name="country_subtitles">
+        <item>12 spots so far…</item>
+        <item>No spots so far…</item>
+        <item>No spots so far…</item>
+        <item>No spots so far…</item>
+    </string-array>
+
+    <string-array name="bangladeshi_spot_titles">
+        <item>Ahsan Monzil</item>
+        <item>Boga Lake</item>
+        <item>Cox Bazaar</item>
+        <item>Jaflong</item>
+        <item>Kantojir Mondir</item>
+        <item>Kuakata</item>
+        <item>Kushtia Kuthibari</item>
+        <item>Lala Khal</item>
+        <item>Nilgiri</item>
+        <item>Sajek Valley</item>
+        <item>Shat Gombuj Mosque</item>
+        <item>Sundarban</item>
+    </string-array>
+
+    <string-array name="bangladeshi_spot_subtitles">
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+        <item>The Longest Sea Beach On Earth</item>
+    </string-array>
+
+    <string-array name="bangladeshi_spot_descriptions">
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+        <item>
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+
+            Cox’s Bazar is a District under Chittagong Division, which is famous for its longest unbroken sandy sea beach. It is located 150 km south of the industrial port- Chittagong. Cox’s Bazar is considered as having the longest sea beach in the world, with a total of 121 kilometer long. The name Cox’s Bazar was derived from its founder, Captain Cox. He founded the very attractive beach in 1798. Then the Cox’s Bazar beach started only as a small port and health resort.
+            \n\n
+        </item>
+
+    </string-array>
+
+</resources>
